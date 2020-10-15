@@ -1,11 +1,63 @@
 def game_hash
   hashskethash = {
     :home => {
-      :team_name => "stringOfHomeTeamName",
-      :colors => ["array", "of", "homeTeam", "colors", "as", "strings"],
+      :team_name => "Brooklyn Nets",
+      :colors => ["Black", "White"],
       :players => [
-        "Alan Anderson" => {
-          
+        {
+          :player_name => "Alan Anderson",
+          :number => "0",
+          :shoe => "16",
+          :points => "22",
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name => "Alan Anderson",
+          :number => "0",
+          :shoe => "16",
+          :points => "22",
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name => "Alan Anderson",
+          :number => "0",
+          :shoe => "16",
+          :points => "22",
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name => "Alan Anderson",
+          :number => "0",
+          :shoe => "16",
+          :points => "22",
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
+        },
+        {
+          :player_name => "Alan Anderson",
+          :number => "0",
+          :shoe => "16",
+          :points => "22",
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks =>
         }
       ]
     }
